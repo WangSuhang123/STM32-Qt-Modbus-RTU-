@@ -1,0 +1,97 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.7.3
+  photosensitivechart.cpp
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x12f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x130 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x133 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x134 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x150 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x151 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x15b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x161 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x163 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x167 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x186 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x188 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x189 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x18b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x18c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x18d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x231 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x234 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+D:\QtProject\QTSerialPortEmbedded\photosensitivechart.h(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“photosensitivechart.cpp”)
+  
+  QTSerialPortEmbedded.vcxproj -> D:\QtProject\QTSerialPortEmbedded\x64\Debug\QTSerialPortEmbedded.exe

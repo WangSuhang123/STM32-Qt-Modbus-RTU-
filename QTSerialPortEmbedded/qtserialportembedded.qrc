@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QTSerialPortEmbedded"/>
+    <qresource prefix="/Style">
+        <file>ant.qss</file>
+    </qresource>
+</RCC>
