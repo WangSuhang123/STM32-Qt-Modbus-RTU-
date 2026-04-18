@@ -1,0 +1,33 @@
+#include "stm32f10x.h"                  // Device header
+#include "Delay.h"
+
+void Key_init(void){
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOB, ENABLE);
+	
+	//    // 单独定义结构体（用于GPIOB初始化，避免覆盖）
+    GPIO_InitTypeDef GPIO_InitStructure_B;
+    GPIO_InitStructure_B.GPIO_Mode = GPIO_Mode_IPU;  // 推挽输出
+    GPIO_InitStructure_B.GPIO_Pin = GPIO_Pin_1 | GPIO_Pin_11;  // 蜂鸣器引脚
+    GPIO_InitStructure_B.GPIO_Speed = GPIO_Speed_50MHz;
+	
+    GPIO_Init(GPIOB, &GPIO_InitStructure_B);  // 初始化GPIOB
+}
+
+uint8_t key_GetNum(void){
+
+	uint8_t KeyNum = 0;
+	if (GPIO_ReadInputDataBit(GPIOB,GPIO_Pin_1) == 0){
+		Delay_ms(20);
+		while(GPIO_ReadInputDataBit(GPIOB,GPIO_Pin_1)==0 );
+		Delay_ms(20);
+		KeyNum = 1;
+	}
+	
+	if (GPIO_ReadInputDataBit(GPIOB,GPIO_Pin_11) == 0){
+		Delay_ms(20);
+		while(GPIO_ReadInputDataBit(GPIOB,GPIO_Pin_11)==0);
+		Delay_ms(20);
+		KeyNum = 2;
+	}
+	return KeyNum;
+}
